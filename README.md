@@ -1,8 +1,11 @@
-# React + Vite
+# Nike UI Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### This is a simple ui design that demonstrates the power of tailwind
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Open your preferd terminal and run the commands below:
+- `git clone https://github.com/don336/Nike-8.0.git`
+- `cd Nike-8.0`
+- `npm install`
+- `npm run dev`
